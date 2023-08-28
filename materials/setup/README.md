@@ -31,7 +31,7 @@ Students will also complete their first reading for this course and conduct thei
   Students will sign up for the services above, with direction and guidance from instructor, coïnstructor, and technical support.
   - [ ] Create a Github account.
   - [ ] Fork this repository on Github.
-  - [ ] Invite @lloracc and @mattzahn to the repository.
+  - [ ] Invite [llorracc](https://github.com/llorracc/) and [matthew-zahn](https://github.com/matthew-zahn) to the repository.
   - [ ] Create a OpenAI ChatGPT Account.  
 - Independent Reading (15 min.)
   Students will read the Dennett paper.
