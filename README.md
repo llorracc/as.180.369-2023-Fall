@@ -220,8 +220,8 @@ due dates or grading policy, please contact your instructor promptly.
 Your instructor is the final word on matters governing this course (where
 not otherwise superseded by university policy.)
 
-If you need an extension for an assignment, please communicate this (in
-advance, where possible) with your instructor. We will make
+If you need an extension for an assignment, communicate this (in
+advance) to your instructor. We will make
 accommodations on a case-by-case basis. We will take into consideration
 whether your request for an extension was made at the last minute (≤48
 hours prior to the due date,) and we reserve the right to deny your
