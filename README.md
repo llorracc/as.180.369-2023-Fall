@@ -187,11 +187,9 @@ This course is split into five main phases:
 - the presentation: students will craft a compelling presentation detailing
   the research done in process of writing their term paper
 
-Note that the schedule above may shift as we progress through the course.
+Note that the schedule above may shift as we progress through the course. Updates to due dates will be communicated to you by your instructor or TA.
 
-Updates to due dates will be communicated to you by your instructor or TA.
-
-This is a live document. Please refresh this page periodically to check for updates.
+**This is a live document. Please refresh this page periodically to check for updates.**
 
 ## Grading
 
