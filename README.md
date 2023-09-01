@@ -193,9 +193,14 @@ Note that the schedule above may shift as we progress through the course. Update
 
 ## Grading
 
+```
+# TODO: map out specifcs of the grading
+```
+
 Your grade in this course will consist of four components:
 - research pitch (10%—due Mon Sep 25)
-- term paper submission (50%—due Mon Nov 27)
+- term paper draft submission (25%—due Fri Oct. 27th)
+- term paper final submission (25%—due Fri Dec. 1st)
 - research presentation (10%—due Mon Dec 4)
 - course participation (30%—assessed overall)
 
