@@ -53,13 +53,26 @@ From jupyterhub, clone your fork and make a commit (10 mins)
 
 ## Mon Sep 25: Research Pitches
 
-```
-# TODO: Grading rubric for the pitch
-```
-
 - 10 minutes per student + 5 min Q&A + 5 min Allocation (9 students) (180 min total)
 - Ahead of time, submit 1 or 2 visuals (ie slides, images, bullet points) per pitch
     - Send materials to cameron@dutc.io
 - Final feedback
 
 Homework: Read Matt’s Paper and provide line-edits
+
+## The Pitch
+
+You will create a pitch, consisting of any visual aid of your choice. The pitch
+should be no longer than 5 minutes in duration and should convey the following
+items:
+
+1. Clear research question (20%)
+    - Do you understand the topic you selected?
+    - Were you able to articulate it as a research question?
+2. What is significance? (35%)
+    - Why should anyone care?
+3. Preview/outline of what you plan to do to answer that question. (35%)
+4. Fit & finish (10%)
+    - Visual aides should be clear, concise, and not too wordy.
+    - Speaking style should slow and understandable.
+    - All ideas conveyed within the time limit.
