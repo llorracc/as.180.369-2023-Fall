@@ -66,13 +66,21 @@ You will create a pitch, consisting of any visual aid of your choice. The pitch
 should be no longer than 5 minutes in duration and should convey the following
 items:
 
-1. Clear research question (20%)
+1. Clear research question (25%)
     - Do you understand the topic you selected?
     - Were you able to articulate it as a research question?
-2. What is significance? (35%)
+2. What is significance? (15%)
     - Why should anyone care?
-3. Preview/outline of what you plan to do to answer that question. (35%)
-4. Fit & finish (10%)
+3. Preview/outline of what you plan to do to answer that question. (40%)
+4. Fit & finish (20%)
     - Visual aides should be clear, concise, and not too wordy.
     - Speaking style should slow and understandable.
     - All ideas conveyed within the time limit.
+
+
+
+
+
+
+
+
