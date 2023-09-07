@@ -241,17 +241,17 @@ in-person, unless you have requested and been granted accommodations (see [below
 
 In general, absences are excused for illness, religious observation,
 participation in certain university activities, or there circumstances
-described in university's policy.  Since we expect the core work of what you do in this class to 
+described in university's policy.  Since we expect the core work of what you do in this class to
 be performed live in class, with your between-class assignments being about
 how to improve what you have done in class, participation during course
-sessions is essential to your performing well and getting the most out 
+sessions is essential to your performing well and getting the most out
 of the class.  As a result, if you miss more than one class that
-not covered in one of the explicitly allowed reasons for excused absences, 
-your grade for the class will be reduced.  
+not covered in one of the explicitly allowed reasons for excused absences,
+your grade for the class will be reduced.
 
 It is your responsibility to inform the instructor or TA beforehand if
 you will miss a class.  Students MUST communicate with their instructor or TA
-regarding expected or unexpected absences. 
+regarding expected or unexpected absences.
 
 Note that JHU policy states:
 
