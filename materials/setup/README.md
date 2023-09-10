@@ -45,4 +45,8 @@ Students will also complete their first reading for this course and conduct thei
 
 - [ ] Completed Dennett summary (due Mon Sep 11; submit online via Github.)
 
-Before our next class session, students will submit their final draft of the Dennett paper summary in their fork of this repository in the folder `/contrib/YOUR-GITHUB-ID/` in a file titled `class00-dennett-summary.md`. Make at least five commits demonstrating incremental improvements using ChatGPT as directed by your TA. Include one or two thoughts of your own. The total length of your submission should be at least 500 words (and no more than 1000 words.)
+Before our next class session, students will submit their final draft of the Dennett paper summary in their fork of this repository in the folder `/contrib/YOUR-GITHUB-ID/` in a file titled `class00-dennett-summary.md`. Your submission will be graded on the following criteria:
+- Make at least five commits demonstrating incremental improvements using ChatGPT.
+- Commits should be spread out over three days and appear at least one hour apart.
+- Include one or two thoughts of your own.
+- The total length of your submission should be at least 500 words (and no more than 1000 words.)
