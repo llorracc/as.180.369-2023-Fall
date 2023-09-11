@@ -42,8 +42,6 @@ research paper.
     - [Jupyterhub](http://jhu.econ-ark.org) Check (5 mins): Log in.
     - [`git`](https://docs.github.com/en/get-started/quickstart/hello-world) and [`gh`](https://cli.github.com/manual/examples) Check: From Jupyrerhub, clone your fork, make a commit, and push back to Github. (10 mins)
 3. **CC**, **MZ** overview of term paper & process (15 mins): What is the overall goal of the term paper? What process will we follow? What do we want to accomplish through the pitch process?
-4. [Litmaps](https://www.litmaps.com/)
-    - How would one construct a nice litmap of the topic of Rate of Return by President
 5. [Sign up for 2 of the starting topics](https://github.com/llorracc/as.180.369/issues/1).
 
 **Homework**
