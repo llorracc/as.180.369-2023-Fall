@@ -44,7 +44,7 @@ research paper.
 3. **CC**, **MZ** overview of term paper & process (15 mins): What is the overall goal of the term paper? What process will we follow? What do we want to accomplish through the pitch process?
 4. [Litmaps](https://www.litmaps.com/)
     - How would one construct a nice litmap of the topic of Rate of Return by President
-5. [Sign up for 2 of the 16 starting topics](https://github.com/llorracc/as.180.369/issues/1).
+5. [Sign up for 2 of the starting topics](https://github.com/llorracc/as.180.369/issues/1).
 
 **Homework**
 - Choose your 2 topics on Github
