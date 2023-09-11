@@ -61,7 +61,7 @@ My Github handle is [llorracc](https://github.com/llorracc/).
 
 My office is located at Wyman Park Building 590.
 I hold office hours Friday 1:45 - 3:45 PM US/Eastern.
-You must book in advance via [http://www.econ2.jhu.edu/people/ccarroll/](http://www.econ2.jhu.edu/people/ccarroll/)
+You must book in advance via [[http://www.econ2.jhu.edu/people/ccarroll/](http://www.econ2.jhu.edu/people/ccarroll/)](https://github.com/ccarrollATjhuecon/Teaching/blob/master/Logistics/Office-Hours-Rules.md)
 
 If you need to meet with me outside of these times, please e-mail me.
 
@@ -194,10 +194,12 @@ Note that the schedule above may shift as we progress through the course. Update
 ## Grading
 
 Your grade in this course will consist of four components:
-- research pitch (10%—due Mon Sep 25)
-- term paper submission (50%—due Mon Nov 27)
-- research presentation (10%—due Mon Dec 4)
-- course participation (30%—assessed overall)
+- Research pitch (10%—due Mon Sep 25)
+- Term paper:
+    - Draft submission (25%—due Fri Oct. 27th)
+    - Final submission (25%—due Fri Dec. 1st)
+- Research presentation (10%—due Mon Dec 4)
+- Course participation (30%—assessed overall)
 
 The last component (“course participation”) will be assessed by your instructor and TA based on the following factors:
 - course attendance
@@ -239,17 +241,17 @@ in-person, unless you have requested and been granted accommodations (see [below
 
 In general, absences are excused for illness, religious observation,
 participation in certain university activities, or there circumstances
-described in university's policy.  Since we expect the core work of what you do in this class to 
+described in university's policy.  Since we expect the core work of what you do in this class to
 be performed live in class, with your between-class assignments being about
 how to improve what you have done in class, participation during course
-sessions is essential to your performing well and getting the most out 
+sessions is essential to your performing well and getting the most out
 of the class.  As a result, if you miss more than one class that
-not covered in one of the explicitly allowed reasons for excused absences, 
-your grade for the class will be reduced.  
+not covered in one of the explicitly allowed reasons for excused absences,
+your grade for the class will be reduced.
 
 It is your responsibility to inform the instructor or TA beforehand if
 you will miss a class.  Students MUST communicate with their instructor or TA
-regarding expected or unexpected absences. 
+regarding expected or unexpected absences.
 
 Note that JHU policy states:
 
