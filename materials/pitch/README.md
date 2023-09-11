@@ -46,6 +46,8 @@ research paper.
 
 **Homework**
 - Choose your 2 topics on Github
+- Prepare a markdown file in your contrib folder with your thoughts on the topic and what your initial hypothesis for the relationship is.
+- You are welcome to use resources like ChatGPT for this assignment.
 
 ## Mon Sep 18: Tools—BibTeX & PaperPile
 
@@ -75,6 +77,4 @@ items:
 - 10 minutes per student + 5 min Q&A + 5 min Allocation (×9 students = 180 min)
 
 **Homework**
-- Review [Matt Zahn's ‘Job Talk’](#) and provide line-edits via Github
-- Prepare a markdown file in your contrib folder with your thoughts on the topic and what your initial hypothesis for the relationship is.
-- You are welcome to use resources like ChatGPT for this assignment. 
+- Review [Matt Zahn's ‘Job Talk’](#) and provide line-edits via Github 
