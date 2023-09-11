@@ -46,7 +46,6 @@ research paper.
 
 **Homework**
 - Choose your 2 topics on Github
-- Make 2 LitMaps that correspond to the two topics you have selected
 
 ## Mon Sep 18: Tools—BibTeX & PaperPile
 
