@@ -1,4 +1,4 @@
-Summary Draft
+#Summary Draft
 
 Daniel Dennett's article, "The Problem with Counterfeit People" was written to inform the reader of potential harms from a lack of AI regulation while highlighting ways to mitigate these harms. 
 
