@@ -9,6 +9,8 @@ research paper.
 
 [Zoom Meeting (Meeting ID # 943 5190 2371; Passcode 487000)](https://JHUBlueJays.zoom.us/j/94351902371?pwd=Z0JTbFhxbk9wTHlPM08rUnhtR0xIZz09)
 
+[Zoom recording. Requires JHU login.](https://livejohnshopkins-my.sharepoint.com/:v:/g/personal/mzahn2_jh_edu/EQTq2wtktIRCmEADI4K6oIEBfdt3ONcp5aTzttASTncz2Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=grzeEz)
+
 **Agenda**
 1. **CR**, **CC**, **MZ** tool micro-demos (50 mins)
     - [Github.com](https://github.com) Demo (10 mins)
