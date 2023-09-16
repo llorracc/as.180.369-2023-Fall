@@ -1,4 +1,4 @@
-# Pitch Initial Thought
+# Pitch Initial Thoughts
 
 ## Prompt 1: Change in total government spending on welfare programs
 
