@@ -9,6 +9,9 @@ involved in writing a research paper in economics or other quantitative discipli
 
 [Zoom Meeting (Meeting ID # 943 5190 2371; Passcode 487000)](https://JHUBlueJays.zoom.us/j/94351902371?pwd=Z0JTbFhxbk9wTHlPM08rUnhtR0xIZz09)
 
+[Zoom recording. Requires JHU login](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flivejohnshopkins-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fmzahn2_jh_edu%2FEVSj7skMBDxLthlbII74gaoBQxwx3XGOhVZf3Yrx2x7Usg&data=05%7C01%7Cmatthew.zahn%40jhu.edu%7Cf004a06a1863458c102208dbb23ad6bd%7C9fa4f438b1e6473b803f86f8aedf0dec%7C0%7C0%7C638299738011662458%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=wpJeGYTemhhWn48mIVMG6fnKE05cW9Arf0bwnFvBgBw%3D&reserved=0)
+
+
 In this class, we will complete initial setup for all of the tools and services we will use.
 
 Students will work with their instructor, TA, and external support to:

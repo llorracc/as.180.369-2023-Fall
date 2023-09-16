@@ -9,6 +9,8 @@ research paper.
 
 [Zoom Meeting (Meeting ID # 943 5190 2371; Passcode 487000)](https://JHUBlueJays.zoom.us/j/94351902371?pwd=Z0JTbFhxbk9wTHlPM08rUnhtR0xIZz09)
 
+[Zoom recording. Requires JHU login.](https://livejohnshopkins-my.sharepoint.com/:v:/g/personal/mzahn2_jh_edu/EQTq2wtktIRCmEADI4K6oIEBfdt3ONcp5aTzttASTncz2Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=grzeEz)
+
 **Agenda**
 1. **CR**, **CC**, **MZ** tool micro-demos (50 mins)
     - [Github.com](https://github.com) Demo (10 mins)
@@ -42,13 +44,12 @@ research paper.
     - [Jupyterhub](http://jhu.econ-ark.org) Check (5 mins): Log in.
     - [`git`](https://docs.github.com/en/get-started/quickstart/hello-world) and [`gh`](https://cli.github.com/manual/examples) Check: From Jupyrerhub, clone your fork, make a commit, and push back to Github. (10 mins)
 3. **CC**, **MZ** overview of term paper & process (15 mins): What is the overall goal of the term paper? What process will we follow? What do we want to accomplish through the pitch process?
-4. [Litmaps](https://www.litmaps.com/)
-    - How would one construct a nice litmap of the topic of Rate of Return by President
-5. [Sign up for 2 of the 16 starting topics](https://github.com/llorracc/as.180.369/issues/1).
+5. [Sign up for 2 of the starting topics](https://github.com/llorracc/as.180.369/issues/1).
 
 **Homework**
 - Choose your 2 topics on Github
-- Make 2 LitMaps that correspond to the two topics you have selected
+- Prepare a markdown file in your contrib folder with your thoughts on the topic and what your initial hypothesis for the relationship is.
+- You are welcome to use resources like ChatGPT for this assignment.
 
 ## Mon Sep 18: Tools—BibTeX & PaperPile
 
@@ -78,4 +79,4 @@ items:
 - 10 minutes per student + 5 min Q&A + 5 min Allocation (×9 students = 180 min)
 
 **Homework**
-- Review [Matt Zahn's ‘Job Talk’](#) and provide line-edits via Github
+- Review [Matt Zahn's ‘Job Talk’](#) and provide line-edits via Github 
