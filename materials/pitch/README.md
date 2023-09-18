@@ -54,8 +54,31 @@ research paper.
 ## Mon Sep 18: Tools—BibTeX & PaperPile
 
 **Agenda**
-- [BibTeX](https://bibtex.org/)
-- [PaperPile](…)
+1. **MZ** Example Python code analyzing the rate of return vs Presidential party. (15 min.)
+2. **CC**, **MZ** [BibTeX](https://www.bibtex.com) (30 min.)
+    - [What is BibTeX?](https://www.bibtex.com/g/bibtex-format/#what-is-bibtex)
+    - [BibTeX format explained](https://www.bibtex.com/g/bibtex-format/#bibtex-format-explained)
+    - Discussion of BibTeX issues
+3. **CC**, **MZ** [Litmaps](https://www.litmaps.com/) (45 min.)
+    - [Synchronous Litmaps demonstration](https://www.youtube.com/watch?v=TJ_wkVDQBrs)
+        - Finding literature via Litmaps
+4. **CC**, **MZ** [Paperpile](https://paperpile.com/) (45 min.)
+    - Create a free trial Paperpile account
+    - Connect your account to the jhu library for help in finding papers
+    - Sharing vs exporting bibliographies
+    - How do you organize your Paperpile folders?
+    - [Synchronous Paperpile demonstration](https://www.youtube.com/watch?v=0p2QbrmePKk)
+5. **CC**, **MZ** Sharing BibTeX files between Paperpile & Litmaps (15 min)
+
+**Homework**
+- Use Litmaps to conduct two literature searches 
+    - 1 search for each of the topics you have selected to pitch.
+- Prepare yourself to discuss, in the next class, what you found in your literature searches.
+    - Review this [additional Paperpile resource](https://www.youtube.com/watch?v=y7vDPfSr-k0)     
+    - You will need to explain why you picked some papers and did not include all of them.
+    - You will need to identify what you think are the most important papers, **and why**.
+    - You will need to discuss which of your two topics seems more promising.
+        - based upon your review of the literatures.
 
 ## Mon Sep 25: Research Pitches
 
