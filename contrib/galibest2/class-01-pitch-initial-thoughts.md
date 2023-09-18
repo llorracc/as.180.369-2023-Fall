@@ -26,6 +26,9 @@ Outside of the aforementioned financial crises, I would love to look at how gove
 
 I would hope to track the number of people needing welfare before and after these initiatives and events and see if there is a correlation between changes in government spending due to an ability to decrease those in need of welfare.
 
+When considering what kind of theory I would use to root my research in, I feel that I would want to consider the new Keynesian theory as highlighted in the monetary easing section in [this article](https://www.richmondfed.org/publications/research/economic_brief/2022/eb_22-13). I feel that if "policymakers can improve economic outcomes by using countercyclical monetary and fiscal policies" we may be able to take note of a similar trend in which contraction of welfare policies may take place during countercyclical times to stimulate more productivity and thus better economic outcomes. I am inclined to believe that contraction could happen in these scenarios since many welfare programs may actually act as a disincentive for individuals to be even more productive. Thus contracting may increase productivity and economic recovery during times of fiscal crisis.
+
+
 ## Prompt 2: Change in labor force participation
 
 Through my research paper, I hope to find a trend in the change in labor force participation as it relates to changes in the labor source and changes in capital. In order to study the change in labor source I would like to analyze how immigration policies have impacted the participation rate.
@@ -39,3 +42,7 @@ In order to study the change in capital I would hope to study the impact of tech
 I believe that there will be a small decrease in labor force participation as individuals aim to re-educate themselves to work with this more efficient form of capital but eventually, the rate will increase exponentially due to more skilled workers helping open up careers for lower-skilled individuals as well.
 
 Other than looking at the impact of immigration on labor force participation, I would also like to look at how gender participation has shifted. Due to the large amount of literature surrounding the varying sensitivities along gender lines, I hope to be able to see if men or women are more sensitive to immigration or industry changes when it comes to their labor force participation.
+
+When considering what kind of theory I would refer to throughout this process, I feel that I would test theories surrounding labor specialization. I would love to see how my results compare to that of Borjas(1999) who focused on a competitive model of supply and demand in a closed economy. I feel like we would be able to see how supplemental or detrimental immigration would be for the labor force.
+
+In priming myself for this topic I stumbled upon [this working paper from the Levy Economics Institute](https://www.levyinstitute.org/pubs/wp_870.pdf). I would love to look into their references and how they designed their research to not only offer a critique but potentially build on their paper.
