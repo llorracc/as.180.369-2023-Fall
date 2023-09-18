@@ -22,3 +22,6 @@ Consider the Cost-Benefit Analysis: When discussing the costliness of adopting c
 Revised ...
 Counterfeiting, enabled by artificial intelligence, threatens our society. AI's ability to blur the line between genuine and fabricated content challenges trust. These counterfeit personas can deceive and manipulate the informed public, endangering democracy. One solution involves mandating AI disclosure, like the EURion Constellation for currency protection. Though costly, the potential societal harm justifies this expense. We must remind AI professionals of their ethical responsibilities to ensure AI serves society's benefit, not its detriment. In conclusion, addressing counterfeit personas through AI disclosure safeguards democracy. A cost-benefit analysis underscores the importance of this approach, maintaining the balance between technological advancement and ethical duty.
 
+My thoughts ... 
+1. Moral issues come up when one human harms others in some way. I don't see talking to AI and possibly being influenced harms another directly
+2. I would prefer unbiased opinions of an AI (if AI information is 100% unbiased) rather than talk to someone with heavy or even slight bias towards a topic
