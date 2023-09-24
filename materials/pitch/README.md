@@ -71,10 +71,10 @@ research paper.
 5. **CC**, **MZ** Sharing BibTeX files between Paperpile & Litmaps (15 min)
 
 **Homework**
-- Use Litmaps to conduct two literature searches 
+- Use Litmaps to conduct two literature searches
     - 1 search for each of the topics you have selected to pitch.
 - Prepare yourself to discuss, in the next class, what you found in your literature searches.
-    - Review this [additional Paperpile resource](https://www.youtube.com/watch?v=y7vDPfSr-k0)     
+    - Review this [additional Paperpile resource](https://www.youtube.com/watch?v=y7vDPfSr-k0)
     - You will need to explain why you picked some papers and did not include all of them.
     - You will need to identify what you think are the most important papers, **and why**.
     - You will need to discuss which of your two topics seems more promising.
@@ -86,12 +86,12 @@ You will create a pitch, consisting of any visual aid of your choice. The pitch
 should be no longer than 5 minutes in duration and should convey the following
 items:
 
+- Exhibit understanding of existing literature around your topics (30%)
+    - You will share your screen showing LitMaps results.
 - Clear research question (25%)
     - Do you understand the topic you selected?
     - Were you able to articulate it as a research question?
-- What is significance? (15%)
-    - Why should anyone care?
-- Preview/outline of what you plan to do to answer that question. (40%)
+- Preview/outline of what you plan to do to answer that question. (25%)
 - Fit & finish (20%)
     - Visual aides should be clear, concise, and not too wordy.
     - Speaking style should slow and understandable.
@@ -99,7 +99,13 @@ items:
 
 **Additional Guidelines**
 - Optionally submit 1 or 2 visuals (e.g., slides, images, bullet points) to [CR](mailto:cameron@dutc.io) prior to Fri Sep 22.
-- 10 minutes per student + 5 min Q&A + 5 min Allocation (×9 students = 180 min)
+- 10 minutes per student + 5 min Q&A + 5 min allocation (×7 students = 140 min)
 
 **Homework**
-- Review [Matt Zahn's ‘Job Talk’](#) and provide line-edits via Github 
+- Draft an abstract & introduction to your paper.
+    - Include a collection of papers you think you will cite.
+    - Refine the assortment of papers from Litmaps into a *collection* in Paperpile.
+    - Obtain PDF files of all papers.
+    - Add Paperpile tags to each paper to track their thesis.
+- Ensure you have new commits and rounds of Chat GPT editing on your paper visible via GitHub!
+    - Space your work out across at least 3 days (we can track this).
