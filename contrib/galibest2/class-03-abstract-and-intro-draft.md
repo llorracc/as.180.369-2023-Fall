@@ -1,4 +1,4 @@
-#Abstract
+# Abstract
 
 As immigration policies grow with the nation and its political landscape, many narratives are presented to the media regarding the impact immigrants have on native-born workers. Through this paper, I hope to focus on the impact of immigration on labor force participation and see how the real-world impacts vary from those predicted based on theory. Furthermore, I aim to track media coverage regarding immigration policy and note if any changes in labor participation, or deviation from economic theory, could be attributed to media coverage. 
 
