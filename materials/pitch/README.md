@@ -82,6 +82,8 @@ research paper.
 
 ## Mon Sep 25: Research Pitches
 
+[Zoom recording. Requires JHU login.]([https://livejohnshopkins-my.sharepoint.com/:v:/g/personal/mzahn2_jh_edu/EQTq2wtktIRCmEADI4K6oIEBfdt3ONcp5aTzttASTncz2Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=grzeEz](https://livejohnshopkins-my.sharepoint.com/:v:/g/personal/mzahn2_jh_edu/EQ9MAp0X7_tPnIhUZSTaPasB8-B29My0i9LdzLWTwf37ZA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=kQqRaG))
+
 You will create a pitch, consisting of any visual aid of your choice. The pitch
 should be no longer than 5 minutes in duration and should convey the following
 items:
