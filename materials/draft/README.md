@@ -18,6 +18,34 @@
     - Do this across at least 3 pull requests over 2 days. 
 - Review [Matt Zahn's ‘Job Market Paper’](https://matthew-zahn.github.io/files/papers/choice_cost/JMPZahn.pdf). Bonus points for the person that finds the most typos!
 
-## Mon Oct 9
+## Mon Oct 9 — Coping Strategies
+
+**Agenda**
+- Share your *improved* visualization!
+
+- *CR* Coping with `git` and https://github.com (30 min.)
+    - Getting your bearing at the command line
+    - Getting your bearing with `git`
+    - Debugging common issues with `git` and [github](https://github.com)
+    - `git` cheatsheet
+
+- *CR* Coping with Jupyter Notebooks (30 min.)
+    - Missing packages and environments
+        - What are `pip install` and `conda install`?
+        - How to recognize when packages are missing?
+        - How to find and document missing packages?
+
+- *MZ* Coping with the research process (30 min.)
+    - What do I do when I can’t move my research forward?
+    - What do I do when I can’t think of what else to write?
+    - How do I know I can trust my results?
+
+- *MZ* Coping with Rejection (30 min.)
+    - Rejection from a Journal.
+    - Rejection from Graduate School.
+    - Rejection from a Job.
+
+**Homework**
+
 ## Mon Oct 16
 ## Mon Oct 23
