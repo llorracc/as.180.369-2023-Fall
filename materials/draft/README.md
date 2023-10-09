@@ -46,6 +46,22 @@
     - Rejection from a Job.
 
 **Homework**
+- Continue working on the Introduction and Abstract for final papers.
+- Use ChatGPT to improve your writing. Please save your ChatGPT prompts in your commit messages.
+- Spread out commit messages over at least three days.
+
+**Helpful notes**
+- Abstract:
+    - Results you hope to get. Write as if you got the results you wanted that align with your hypothesis.
+    - Note why people should care about your findings.
+    - Tight: Less than 200 words.
+- Introduction:
+    - Longer than Abstract.
+    - Position the paper in terms of our current understanding/debates on the subject.
+    - Motivate why you are studying this topic and why it is important. Big pictire, what is the point of your paper. 
+    - Aim for about a page or a page and a half (~500 to 750 words).
+    - Focus on writing well. The content is less important than the process and demonstration of using the tools to improve the content you generate.
+
 
 ## Mon Oct 16
 ## Mon Oct 23
