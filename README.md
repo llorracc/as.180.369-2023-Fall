@@ -168,8 +168,8 @@ languages (though having taken a formal course in such a language is not require
 | 5  | [Mon Oct 2](materials/draft)         | 2. the draft        |                                                 |
 | 6  | [Mon Oct 9](materials/draft)         | 2. the draft        |                                                 |
 | 7  | [Mon Oct 16](materials/draft)        | 2. the draft        |                                                 |
-| 8  | [Mon Oct 23](materials/draft)        | 2. the draft        |     First Draft of Paper (submitted online)     |
-| 9  | [Mon Oct 30](materials/submission)   | 3. the submission   |                                                 |
+| 8  | [Mon Oct 23](materials/draft)        | 2. the draft        |                                                 |
+| 9  | [Mon Oct 30](materials/submission)   | 2. the draft        |      First Draft of Paper (submitted online)    |
 | 10 | [Mon Nov 6](materials/submission)    | 3. the submission   |                                                 |
 | 11 | [Mon Nov 13](materials/submission)   | 3. the submission   |                                                 |
 | 12 | [Mon Nov 27](materials/presentation) | 4. the presentation |     Final Draft of Paper (submitted online)     |
