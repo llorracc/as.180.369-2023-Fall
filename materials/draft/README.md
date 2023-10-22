@@ -67,6 +67,8 @@
 
 ## Mon Oct 16
 
+[Zoom recording. Requires JHU login.](https://livejohnshopkins-my.sharepoint.com/:v:/g/personal/mzahn2_jh_edu/EZZescblGOBEpvWgNGqhJ6YB3dSjrDGW49exKc_EnpGmSw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=6m0VKz)
+
 **Agenda**
 - Show us your Abstract & Introduction!
     - Share you experience in crafting Chat GPT prompts to give you feedback.
