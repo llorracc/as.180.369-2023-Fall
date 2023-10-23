@@ -113,11 +113,16 @@
     - [myst](https://mystmd.org) to create a webpage with bibliography.
 
 ```sh
-HOST=0.0.0.0 myst start --keep-host
+# copy jupyterbook folder contrib/cam/jupyterbook to your own contrib folder
+# navigate to the new copy of /jupyterbook your contrib folder
 
-# Look for: "Server started on port XXXX!"
-# Open new tab on your web browser and enter: https://jhu.econ-ark.org:XXXX
-# where XXXX is the same as the output from the above command
+# start terminal session in the folder of your notebook
+# alternatively, use `cd` to navigate to your notebook folder
+
+build-jb
+
+# open link jhu.econ-ark.org/user/{your user name}/proxy/{...}/ in new tab
+# note that this link should appear in your terminal screen, simply click on it to open it in a new tab.
 ```
 
 **Homework**
