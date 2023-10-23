@@ -169,11 +169,11 @@ languages (though having taken a formal course in such a language is not require
 | 6  | [Mon Oct 9](materials/draft)         | 2. the draft        |                                                 |
 | 7  | [Mon Oct 16](materials/draft)        | 2. the draft        |                                                 |
 | 8  | [Mon Oct 23](materials/draft)        | 2. the draft        |                                                 |
-| 9  | [Mon Oct 30](materials/submission)   | 2. the draft        |      First Draft of Paper (submitted online)    |
-| 10 | [Mon Nov 6](materials/submission)    | 3. the submission   |                                                 |
+| 9  | [Mon Oct 30](materials/submission)   | 2. the draft        |                                                 |
+| 10 | [Mon Nov 6](materials/submission)    | 2. the draft        |      First Draft of Paper (submitted online)    |
 | 11 | [Mon Nov 13](materials/submission)   | 3. the submission   |                                                 |
 | 12 | [Mon Nov 27](materials/presentation) | 4. the presentation |     Final Draft of Paper (submitted online)     |
-| 13 | [Mon Dec 4](materials/presentation)  | 4. the presentation | Final (5-min) Presentation (presented in-class) |
+| 13 | [Mon Dec 4](materials/presentation)  | 4. the presentation | Final (15-min) Presentation (presented in-class) |
 
 This course is split into five main phases:
 - the setup: students will get set up with all of the tools necessary
