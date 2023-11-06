@@ -153,6 +153,7 @@ build-jb
     - In the commits you write, please include the prompts you used in ChatGPT.
 
 ## Mon Nov 6
+(Zoom link)[https://zoom.us/j/99322446014?pwd=TWVRZk9iaUpTTktxa1hoQmREYjRaUT09]
 
 **Agenda**
 - Discuss your results section (10 minutes ea).
