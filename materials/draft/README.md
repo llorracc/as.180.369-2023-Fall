@@ -153,3 +153,14 @@ build-jb
     - In the commits you write, please include the prompts you used in ChatGPT.
 
 ## Mon Nov 6
+
+**Agenda**
+- Discuss your results section (10 minutes ea).
+- Discussion of ChatGPT/AI Whispering practices and approahces.
+- Demonstrate Jupyter Rise for creating slides from your work.
+- Demonstrate jupyter-nbconvert to export jupyter rise slides.
+
+**Homework**
+- Work on the presentation of your paper using Jupyter Rise.
+
+
