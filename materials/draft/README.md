@@ -153,3 +153,16 @@ build-jb
     - In the commits you write, please include the prompts you used in ChatGPT.
 
 ## Mon Nov 6
+[Zoom link](https://zoom.us/j/99322446014?pwd=TWVRZk9iaUpTTktxa1hoQmREYjRaUT09)
+
+**Agenda**
+- Discuss your results section (10 minutes ea).
+- Discussion of ChatGPT/AI Whispering practices and approahces.
+- Demonstrate Jupyter Rise for creating slides from your work.
+- Demonstrate jupyter-nbconvert to export jupyter rise slides.
+
+**Homework**
+- Work on the presentation of your paper using Jupyter Rise.
+- Revisit your LitMaps and highlight/callout/denote in someway the citations that you actually reference in your draft.
+
+
