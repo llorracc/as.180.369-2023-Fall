@@ -163,5 +163,6 @@ build-jb
 
 **Homework**
 - Work on the presentation of your paper using Jupyter Rise.
+- Revisit your LitMaps and highlight/callout/denote in someway the citations that you actually reference in your draft.
 
 
