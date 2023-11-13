@@ -3,7 +3,7 @@
 ## Overview
 
 ## Mon Nov 13
-** Homework from previous class **
+**Homework from previous class**
 - Work on the presentation of your paper.
 - Revisit your LitMaps and highlight/callout/denote in someway the citations that you actually reference in your draft.
     - Use these papers as seeds and generate a new map. See if you find new papers.
