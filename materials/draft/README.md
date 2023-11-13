@@ -21,7 +21,7 @@
     - Update the visualization in this notebook you copied/renamed.
     - `git add` and `git commit` your work.
     - `git push` your changes from Jupyterhub to Github.
-    - Do this across at least 3 commits over 2 days. 
+    - Do this across at least 3 commits over 2 days.
 - *MZ* Review [Matt Zahn's ‘Job Market Paper’](https://github.com/matthew-zahn/matthew-zahn.github.io/blob/master/files/papers/choice_cost/JMPZahn.pdf). Bonus points for the person that finds the most typos!
 
 ## Mon Oct 9 — Coping Strategies
@@ -60,7 +60,7 @@
 - Introduction:
     - Longer than Abstract.
     - Position the paper in terms of our current understanding/debates on the subject.
-    - Motivate why you are studying this topic and why it is important. Big pictire, what is the point of your paper. 
+    - Motivate why you are studying this topic and why it is important. Big pictire, what is the point of your paper.
     - Aim for about a page or a page and a half (~500 to 750 words).
     - Focus on writing well. The content is less important than the process and demonstration of using the tools to improve the content you generate.
 
@@ -96,7 +96,7 @@
 - Obtain and explore some data that are relevant to your topic.
     - Conduct an exploration/preliminary analysis of your obtained data set(s).
 - Be prepared to present to the class on your preliminary analysis of the data.
-- Make sure you are working on your Jupterhub and are `git add`ing and `git commit`ing 
+- Make sure you are working on your Jupterhub and are `git add`ing and `git commit`ing
   your work regularly.
   - **Spread out commit messages over at least three days.**
 - Prepare for 10 minute discussion where you are in the next class.
@@ -106,7 +106,7 @@
 ## Mon Oct 23
 
 **Agenda**
-- Discussions 
+- Discussions
 - Review pandas data loading
 - Write a paragraph on the tools/ideas you would consider using from the Korinek paper.
 - *CR* Demonstration of citation tools.
@@ -164,6 +164,6 @@ build-jb
 - Work on the presentation of your paper.
 - Revisit your LitMaps and highlight/callout/denote in someway the citations that you actually reference in your draft.
     - Use these papers as seeds and generate a new map. See if you find new papers.
-    - Come prepared to discuss these new maps.     
+    - Come prepared to discuss these new maps.
 
 
