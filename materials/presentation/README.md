@@ -5,9 +5,13 @@
 ## Mon Nov 27
 
 **Agenda**
-Windows WSL https://learn.microsoft.com/en-us/windows/wsl/install 
+- Discussion of individual presentations (10 min ea).
+- Tips & tricks for slideshow presenting.
 
 - Set computers up for miniconda.
+    - Windows WSL https://learn.microsoft.com/en-us/windows/wsl/install 
+    - Miniconda: https://docs.conda.io/projects/miniconda/en/latest/
+
     - Brief introduction to virtual environments.
     ```
     conda install --name mamba --clone base
@@ -27,8 +31,6 @@ Windows WSL https://learn.microsoft.com/en-us/windows/wsl/install
     ```
 
 - Launch Jupyter Lab and view paper & presentation draft locally.
-- Discussion of individual presentations (10 min ea).
-- Tips & tricks for slideshow presenting.
 
 ## Mon Dec 4
 
