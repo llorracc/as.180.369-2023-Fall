@@ -16,16 +16,17 @@
       environment.yml
     ```
     name: as.180.369
-    channel:
+    channels:
     - conda-forge
-    - defaults
     dependencies:
     - python=3.10
-    - fredapi=0.5.1
     - matplotlib=3.7.2
     - pandas=2.0.2
-    - statsmodels=0.14.0
-    - seaborn=0.14.0
+    - statsmodels=0.14
+    - seaborn=0.12
+    - pip
+    - pip:
+      - fredapi==0.5.1
     ```
     Then run: `conda env update -f environment.yml`
 
