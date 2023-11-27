@@ -13,7 +13,8 @@
     - Miniconda: https://docs.conda.io/projects/miniconda/en/latest/
 
     - Brief introduction to virtual environments.
-      environment.yml
+
+    contrib/camriddell/generic-environment.yml
     ```
     name: as.180.369
     channels:
@@ -28,7 +29,18 @@
     - pip:
       - fredapi==0.5.1
     ```
-    Then run: `conda env update -f environment.yml`
+
+    To download the above file run the following command:
+
+    ```
+    curl -o environment.yml https://raw.githubusercontent.com/llorracc/as.180.369/main/contrib/camriddell/generic-environment.yml
+    ```
+
+    Then run
+
+    ```
+    conda env update -f environment.yml
+    ```
 
 - Clone repository to local machine.
     - Learn proper discipline for git repositories.
