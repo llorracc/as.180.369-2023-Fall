@@ -13,12 +13,21 @@
     - Miniconda: https://docs.conda.io/projects/miniconda/en/latest/
 
     - Brief introduction to virtual environments.
+      environment.yml
     ```
-    conda install --name mamba --clone base
-    conda activate mamba
-
-    pip install econ-ark # noted for future.
+    name: as.180.369
+    channel:
+    - conda-forge
+    - defaults
+    dependencies:
+    - python=3.10
+    - fredapi=0.5.1
+    - matplotlib=3.7.2
+    - pandas=2.0.2
+    - statsmodels=0.14.0
+    - seaborn=0.14.0
     ```
+    Then run: `conda env update -f environment.yml`
 
 - Clone repository to local machine.
     - Learn proper discipline for git repositories.
