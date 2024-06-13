@@ -15,3 +15,25 @@ F23df.to_pickle(outpath)
 # Load example
 #df = pd.read_pickle(outpath)
 # EOF
+
+# exclude rows with NaN
+df_NaN=F23df_noNaN=F23dfd.dropna()
+df=F23df_noNaN
+# exclude courses taught by writing department 
+rit = df['Dept'].str.contains('rit',regex=True,na=False)
+norit = df_big[~rit]
+
+# exclude courses taught by language departments
+lang = norit['Dept'].str.contains('angua',regex=True,na=False)
+nolang =norit[~lang]
+
+#exclude the English department
+english=nolang['Dept'].str.contains('nglis',regex=True)
+noenglish=nolang[~english]
+
+# Calc stats
+meanvals = noenglish[['Dept','Title','OverallMean','QualityMean','FeedbackRate','ClassSize']]
+meanvals.sort_values(by='OverallMean',ascending=False)
+meanvals['Count'] = list(range(1, len(noeng)+1))
+meanvals
+
